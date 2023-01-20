@@ -1,4 +1,4 @@
-# pml
+# PML Exam Project 2022/2023
 
 ## Density modelling
 
