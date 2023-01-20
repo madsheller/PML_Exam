@@ -2,9 +2,9 @@
 
 ## Density modelling
 
-[THe notebook ProblemA.ipynb](https://github.com/madsheller/PML_Exam/blob/main/ProblemA.ipynb) contains all the code used in solving part A.
+[The notebook ProblemA.ipynb](https://github.com/madsheller/PML_Exam/blob/main/ProblemA.ipynb) contains all the code used in solving part A.
 
-The folder LeNet contains the CNN model used to compute accuracy scores.
+The folder [LeNet](https://github.com/madsheller/PML_Exam/tree/main/LeNet) contains the CNN model used to compute accuracy scores.
 
 ## Gaussian Process
 
